@@ -60,6 +60,7 @@ Nextflow is a popular workflow management tool. It allows you to create and run 
 * Nextflow's open training platform: https://training.nextflow.io/ 
 * Nf-core pipelines: https://nf-co.re/pipelines/ 
 * Institutional pipeline configurations (we've made configs for NCI and Pawsey): https://nf-co.re/configs/
+* Our Nextflow template: https://sydney-informatics-hub.github.io/template-nf-guide/
 
 ## Code management
 
