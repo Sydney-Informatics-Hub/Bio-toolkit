@@ -5,11 +5,11 @@ Bioinformatics is an interdisciplinary field that leverages computational tools 
 * [What is bioinformatics?](#what-is-bioinformatics)
 * [The linux shell](#the-linux-shell)
 * [Common file formats](./File_formats.md)
-* [Intro to HPC](#into-to-hpc)
+* [Intro to HPC](#into-to-hpc)  
+* [Nextflow for workflow development](#nextflow-workflows)
 * [Code management](#code-management)
 * [Software management](#software-management)
 * [R and Python](#r-and-python)
-* [Various 'omics techniques](#various-omics-techniques)
 
 ## What is bioinformatics?
 
@@ -49,6 +49,17 @@ High performance computing (HPC) systems are used to run computationally intensi
 * Pawsey training materials: https://pawseysc.github.io/ 
 * Carprentries HPC: https://www.hpc-carpentry.org/index.html 
 * http://andrewjrobinson.github.io/training_docs/tutorials/hpc/
+
+## Nextflow workflows
+
+Nextflow is a popular workflow management tool. It allows you to create and run reproducible, scalable bioinformatics workflows. It is our preferred tool for writing and maintaining workflows at SIH. We like Nextflow because of its extensive functionality and community support. The Nextflow community is called [nf-core](https://nf-co.re/), they provide a library of fantastic pipelines that you can use for your own data processing needs. You may choose to use these pipelines instead of writing your own, keep in mind they require configuration. We recommend the following resources to help you learn about Nextflow and use it for your own research: 
+
+* Nextflow for the life sciences workshop: https://github.com/Sydney-Informatics-Hub/hello-nextflow-2025 
+* Nextflow on HPC workshop: https://sydney-informatics-hub.github.io/nextflow-hpc-workshop/ 
+* Customising nf-core pipelines workshop: https://sydney-informatics-hub.github.io/customising-nfcore-workshop/
+* Nextflow's open training platform: https://training.nextflow.io/ 
+* Nf-core pipelines: https://nf-co.re/pipelines/ 
+* Institutional pipeline configurations (we've made configs for NCI and Pawsey): https://nf-co.re/configs/
 
 ## Code management
 
@@ -93,7 +104,3 @@ Bioinformatics software typically have a lot of dependencies. Managing software 
 * Official Python tutorial: https://docs.python.org/3/tutorial/ 
 * Python for everybody: https://www.py4e.com/lessons 
 * Data processing: http://opentechschool.github.io/python-data-intro/ 
-
-## Various 'omics techniques
-
-
