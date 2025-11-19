@@ -37,14 +37,14 @@ The Linux shell is a powerful interface for interacting with your computer's ope
 
 ## Into to HPC
 
-High performance computing (HPC) systems are used to run computationally intensive analyses. Chances are if you're working with big genomes or large sample cohorts, you'll need to use an HPC. Keep in mind that depending on the system, you may be working with a different job scheduler (e.g. PBSpro vs SLURM), so your code might not cleanly port over from one system to another. If you are new to HPC and working on Australian HPC systems, you may want to start with the following courses and resources:
+High performance computing (HPC) systems are used to run computationally intensive analyses. Chances are if you're working with big genomes or large sample cohorts, you'll need to use an HPC. Keep in mind that depending on the system, you may be working with a different job scheduler (e.g. PBS Pro vs SLURM), so your code might not cleanly port over from one system to another. If you are new to HPC and working on Australian HPC systems, you may want to start with the following courses and resources:
 
 * HPC jargon buster: https://carpentries-incubator.github.io/hpc-intro/files/jargon.html
 * Carpentries intro to HPC: https://carpentries-incubator.github.io/hpc-intro/
 * Pro tips for scaling bioinformatics to HPC: https://www.biocommons.org.au/events/workflows-hpc
-* [Ten simple rules for large-scale data processing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009757)
-* Intro to Artemis HPC: https://sydney-informatics-hub.github.io/training.artemis/ 
-* Intro to Gadi HPC: https://sydney-informatics-hub.github.io/training.gadi.intro/ 
+* [Ten simple rules for large-scale data processing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009757) 
+* NCI Gadi HPC for USyd: https://sydney-informatics-hub.github.io/usyd-gadi-onboarding-guide/ 
+* Pawsey Setonix HPC for USyd: https://sydney-informatics-hub.github.io/usyd-pawsey-onboarding-guide/
 * Intro to Gadi workshop calendar: https://opus.nci.org.au/display/Help/Introduction+to+Gadi 
 * Pawsey training materials: https://pawseysc.github.io/ 
 * Carprentries HPC: https://www.hpc-carpentry.org/index.html 
