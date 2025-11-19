@@ -16,6 +16,12 @@
 
 The training listed below were developed by Sydney Informatics Hub staff:
 
+- [Nextflow for HPC 2025 workshop](https://sydney-informatics-hub.github.io/nextflow-hpc-workshop/)
+- [Nextflow for the life sciences 2025 workshop](https://sydney-informatics-hub.github.io/hello-nextflow-2025/)
+- [Introduction to spatial omics workshop 2025 series](https://swbioinf.github.io/intro-spatial-transcriptomics-workshop/)
+- [Getting started with spatial omics webinar 2025](https://www.youtube.com/watch?v=fUbXyFFGohg)
+- [Making sense of gene and protein lists with functional enrichment analysis webinar](https://www.youtube.com/watch?v=AvpH2WMNXxA)
+- [Making sense of gene and protein lists with functional enrichment analysis workshop](https://monashbioinformaticsplatform.github.io/Functional_Enrichment_BioCommons_2024/)
 - [RNA-seq: reads to differential gene expression workshop 2023 series](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/)
 - [AlphaFold at Sydney University](https://www.youtube.com/watch?v=G2mDQ1th0CQ)
 - [Decoding bioinformatics: A Primer For Life Scientists masterclass](https://www.youtube.com/watch?v=WehEF-6nq3U)
